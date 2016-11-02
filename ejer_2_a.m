@@ -8,8 +8,7 @@ for n=1:nt
         ValorP(n)=ValorP(n);
     
     else
-        2
-        ValorP(n)=-ValorP(n);
+       ValorP(n)=-ValorP(n);
     end 
 end
 sum(ValorP)*4
